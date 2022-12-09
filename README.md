@@ -1,2 +1,2 @@
 This is a basic recipe website.
-Once I complete it, I know how to code in basic html.
+I'll complete it with the basic html I learned.
